@@ -68,3 +68,19 @@ text-align:center;
 padding:20px;
 margin-top:50px;
 }
+nav{
+    margin-top:20px;
+}
+
+nav a{
+    color:#FFD700;
+    text-decoration:none;
+    margin:0 15px;
+    font-size:18px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+nav a:hover{
+    color:white;
+}
